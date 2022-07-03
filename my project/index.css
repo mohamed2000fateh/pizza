@@ -1,0 +1,143 @@
+.main{
+   width: 100%;
+   background: linear-gradient(to top,rgba(0, 0, 0, 0.5)50%,rgba(0, 0, 0, 0.5)50%),url(bg3.jpg);
+   background-position:center; 
+   background-size:cover;
+   height: 109vh;
+}
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+.nav-bar{
+  width: 1200px;
+  height: 75px;
+  margin-left:0px;
+}
+.icon{
+width: 230px;
+height: 110px;
+float: left;
+}
+img{
+    width: 40px;
+    height: 40px;
+    margin-right:2px ;
+    margin-left:2px ;
+    background-color: #fff;
+    border-radius:  50px 50px 50px 50px;
+}
+.logo{
+    display: inline-block;
+    position: relative;
+    bottom: 7px;
+    font-family:fredoka One;
+    font-size: 35px;
+    color: #F77E21;
+}
+.pi{
+    font-size: 60px;
+    margin-right:0px;
+    margin-left:0px;
+    color: #125C13;
+    
+}
+.fa-solid{
+    margin-left: 15px;
+}
+#service{
+    margin-left: 24px;
+}
+#sign{
+    margin-left: 10px;
+}
+.zz{
+    color:#9B0000;
+    font-family:fredoka One;
+    font-size: 35px;
+    padding-left:4px;
+    padding-right:4px;
+}
+.pizza-img{
+    height:150px ;
+    width:150px;
+    border-radius: 200px; 200px; 200px; 200px;
+    background-color:#F77E21;
+}
+
+.pizza-logo{
+    float: left;
+    height: 60px;
+    width: 60px;
+    padding-top:28px;
+    padding: 2% 2% 2% 2% ;
+    
+    background-color: rgb(255, 255, 255);
+    border-radius: 100px 100px 100px 100px;
+    margin-right: 10px;
+    margin-top: 7px;
+    margin-left: 4px;
+    border: solid 5px #B3541E ;
+}
+.menu{
+    width: 500px;
+    height: 50px;
+    float:left;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:13px;
+    margin-bottom: 16px;
+}
+ul li{
+    list-style: none;
+    margin-left:10px ;
+    margin-right:10px ;
+    font-size: 17px;
+}
+ul li a{
+    text-decoration: none;
+    color:#fff;
+    font-family:Arial;
+    font-weight: bold;
+    transition: 0.2s ease-in;
+}
+ul li a:hover{
+color:rgb(255, 102, 0);
+}
+.d-flex{
+    padding-left:20px;
+}
+.heading{
+    display: inline-block;
+    position: relative;
+    right: 200px;
+    font-family: Lobster;
+    font-size: 130px;
+    color:#fff;
+    text-align: center;
+    padding-top: 65px;
+    padding-right: 480px;
+}
+h1 button {
+    
+   width: 200px;
+   height: 45px;
+ }
+ h1 button .texture{
+     font-size: 21px;
+    font-family: Arial ;
+    
+ }
+
+.piza{
+   color:#ff6f00 ;
+   font-family:lobster;
+   font-size: 120px;
+}
+
